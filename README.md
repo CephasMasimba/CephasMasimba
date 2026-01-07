@@ -9,9 +9,9 @@ I am a results-driven Data Analyst dedicated to transforming complex data into a
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Data Manipulation** | SQL, Python, Excel (Advanced) |
+| **Data Manipulation** | SQL,Excel (Advanced) |
 | **Visualization** | PowerBI, Google Looker, Tableau |
-| **Cloud Platforms** | Snowflake, Databricks, Azure |
+| **Cloud Platforms** | Snowflake, Databricks, |
 | **Methodologies** | Statistical Analysis, Data Cleaning, ETL Processes |
 
 ---
