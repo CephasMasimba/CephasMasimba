@@ -1,7 +1,7 @@
 # Hi, I'm Cephas Masimba 👋
 **Data Analyst Consultant | Johannesburg**
 
-I am a results-driven Data Analyst dedicated to transforming complex data into actionable business insights. With a strong background in SQL and data visualization.Armed with a first class degree in Business Economics from Bharati Vidyapeeth University(India),I bridge the gap between technical data and strategic decision-making.
+I am a results-driven Data Analyst transitioning into Data Engineering, dedicated to transforming complex data into actionable business insights. With a strong background in SQL and data visualization,armed with a first class degree in Business Economics from Bharati Vidyapeeth University(India),I bridge the gap between technical data and strategic decision-making.
 
 ---
 
